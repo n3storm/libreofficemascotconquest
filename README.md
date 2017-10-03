@@ -1,5 +1,8 @@
 # libreofficemascotconquest
 My proposal for LibreOffice mascot conquest that amazingly did not get qualified.
+
+![Docatoo](https://raw.githubusercontent.com/n3storm/libreofficemascotconquest/master/20170701_nestordiazvalencia_docatoo-v2.png)
+
 I sent a first version without the black/white examples, so I resent with a second version. Here follows my first submission email:
 
 ```
